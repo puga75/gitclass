@@ -1,0 +1,2 @@
+# gitclass
+create a repo
